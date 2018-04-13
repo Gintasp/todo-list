@@ -1,8 +1,8 @@
 body{
 	font-family:Roboto;
-	background: #005AA7;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #005AA7;
+	background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);
+	background: linear-gradient(to right, #FFFDE4, #005AA7);
 	background-position: center;
 }
 h1{
@@ -74,4 +74,9 @@ li:hover span{
 	width:360px;
 	margin:100px auto;
 	background:#f7f7f7;
+}
+@media only screen and (max-width:600px){
+	#container{
+		width:85%;
+	}
 }
