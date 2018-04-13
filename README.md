@@ -1,5 +1,5 @@
 # todo-list
-Just a simple todo list made following Colt Stele's Web Developer Bootcamp.
+Just a simple todo list made following Colt Stele's Web Developer Bootcamp. The project is hosted on github's server at https://gintasp.github.io/todo-list/
 
 Instructions:
 
